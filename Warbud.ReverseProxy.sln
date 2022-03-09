@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warbud.ReverseProxy", "Warbud.ReverseProxy\Warbud.ReverseProxy.csproj", "{5822D51C-5F6E-4330-8C5A-F8B49F8B5722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "..\Shared\Shared\Shared.csproj", "{60B8B132-BB60-4666-B85E-C79647B1DCFE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +12,5 @@ Global
 		{5822D51C-5F6E-4330-8C5A-F8B49F8B5722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5822D51C-5F6E-4330-8C5A-F8B49F8B5722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5822D51C-5F6E-4330-8C5A-F8B49F8B5722}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60B8B132-BB60-4666-B85E-C79647B1DCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60B8B132-BB60-4666-B85E-C79647B1DCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60B8B132-BB60-4666-B85E-C79647B1DCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60B8B132-BB60-4666-B85E-C79647B1DCFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

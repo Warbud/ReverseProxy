@@ -6,12 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Warbud.Shared" Version="1.0.1" />
       <PackageReference Include="Yarp.ReverseProxy" Version="1.0.0-preview.12.21451.3" />
     </ItemGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\..\Shared\Shared\Shared.csproj" />
-    </ItemGroup>
-
-
 </Project>
